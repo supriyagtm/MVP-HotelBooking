@@ -1,0 +1,4 @@
+exmpl/dao/YourEntityDAO.class
+entity/YourEntity.class
+exmpl/resource/YourResource.class
+exmpl/server/GrizzlyServer.class
